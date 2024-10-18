@@ -109,8 +109,6 @@ Please make sure to read the [Contributing Guide](https://github.com/vuejs/vue/b
 
 Thank you to all the people who already contributed to Vue!
 
-<img src="https://opencollective.com/vuejs/contributors.svg" />
-
 # License
 
 [MIT](https://opensource.org/licenses/MIT)
