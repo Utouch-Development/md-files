@@ -51,14 +51,14 @@ Vue.js supports all browsers that are [ES5-compliant](https://compat-table.githu
 
 | Project               | Status                                                       | Description                                             |
 | --------------------- | ------------------------------------------------------------ | ------------------------------------------------------- |
-| [vue-router]          | [![vue-router-status]][vue-router-package]                   | Single-page application routing                         |
-| [vuex]                | [![vuex-status]][vuex-package]                               | Large-scale state management                            |
-| [vue-cli]             | [![vue-cli-status]][vue-cli-package]                         | Project scaffolding                                     |
-| [vue-loader]          | [![vue-loader-status]][vue-loader-package]                   | Single File Component (`*.vue` file) loader for webpack |
-| [vue-server-renderer] | [![vue-server-renderer-status]][vue-server-renderer-package] | Server-side rendering support                           |
-| [vue-class-component] | [![vue-class-component-status]][vue-class-component-package] | TypeScript decorator for a class-based API              |
-| [vue-rx]              | [![vue-rx-status]][vue-rx-package]                           | RxJS integration                                        |
-| [vue-devtools]        | [![vue-devtools-status]][vue-devtools-package]               | Browser DevTools extension                              |
+| vue-router            | active                                                       | Single-page application routing                         |
+| vuex                  | active                                                       | Large-scale state management                            |
+| vue-cli               | active                                                       | Project scaffolding                                     |
+| vue-loader            | active                                                       | Single File Component (`*.vue` file) loader for webpack |
+| vue-server-renderer   | active                                                       | Server-side rendering support                           |
+| vue-class-component   | active                                                       | TypeScript decorator for a class-based API              |
+| vue-rx                | active                                                       | RxJS integration                                        |
+| vue-devtools          | active                                                       | Browser DevTools extension                              |
 
 [vue-router]: https://github.com/vuejs/vue-router
 [vuex]: https://github.com/vuejs/vuex
