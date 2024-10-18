@@ -39,15 +39,6 @@ Autocompletion doesn't work out-of-the-box with Markdown documents. It is possib
 
 For Atom to index your Markdown documents as symbols, you have to add the following to your `config.cson`:
 
-```coffee
-'.text.md':
-    autocomplete:
-        symbols:
-            constant:
-                selector: "*"
-                typePriority: 1
-```
-
 You can find additional information in [this issue](https://github.com/burodepeper/language-markdown/issues/150).
 
 ## Syntax-highlighting is broken after uninstall
@@ -63,10 +54,3 @@ The core-package `language-gfm` is automatically disabled (unless you've enabled
 
 By default, Atom removes all trailing whitespace when a file is saved. You can disable it by setting the following flag in your `config.cson` for the `.md.text` scope. For more background, see [#115](https://github.com/burodepeper/language-markdown/issues/115).
 
-```coffee
-'*':
-  # all current config
-'.md.text':
-  whitespace:
-    removeTrailingWhitespace: false
-```
