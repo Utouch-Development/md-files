@@ -25,6 +25,7 @@ This page shows the various elements that markdown supports.
 # Links
 
 [link](https://www.example.com/my%20great%20page)
+
 [second link](https://www.example.com/my%20great%20page)
 
 # Headings
@@ -38,5 +39,5 @@ This page shows the various elements that markdown supports.
 
 # Code
 
-code example
+code example  
 `const a = 1;`
