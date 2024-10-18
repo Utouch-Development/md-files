@@ -1,3 +1,3 @@
 # Whitepaper
 
-> Пример отображения цитаты
+> Quote example
