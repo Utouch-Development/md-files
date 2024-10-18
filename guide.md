@@ -26,7 +26,7 @@ Vue.js is an MIT-licensed open source project with its ongoing development made 
 </p>
 
 <p align="center">
-  <img alt="special sponsor appwrite" src="https://sponsors.vuejs.org/images/appwrite.svg" width="300">
+  <img alt="special sponsor appwrite" src="https://sponsors.vuejs.org/images/appwrite.svg">
 </p>
 
 <p align="center">
@@ -109,7 +109,7 @@ Please make sure to read the [Contributing Guide](https://github.com/vuejs/vue/b
 
 Thank you to all the people who already contributed to Vue!
 
-<img src="https://opencollective.com/vuejs/contributors.svg?width=890" />
+<img src="https://opencollective.com/vuejs/contributors.svg" />
 
 # License
 
