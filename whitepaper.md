@@ -35,7 +35,7 @@ This page shows the various elements that markdown supports.
 
 # Images
 
-![The San Juan Mountains are beautiful!](/assets/images/san-juan-mountains.jpg "San Juan Mountains")
+![The San Juan Mountains are beautiful!](https://www.markdownguide.org/assets/images/san-juan-mountains.jpg "San Juan Mountains")
 
 # Code
 
